@@ -5,7 +5,7 @@
     "description": "A simple http server.",
     "version": "0.0.113",
     "repository": {
-        "url": ""
+        "url": "https://github.com/ypyf/httpstart"
     },
     "dependencies": {
         "mimemap": "*",
