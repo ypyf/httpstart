@@ -1,0 +1,25 @@
+{
+    "license": "MIT",
+    "author": "Yan Feng",
+    "name": "httpstart",
+    "description": "A simple http server.",
+    "version": "0.0.113",
+    "repository": {
+        "url": ""
+    },
+    "dependencies": {
+        "mimemap": "*",
+        "commander": "2.x"
+    },
+    "devDependencies": {},
+    "optionalDependencies": {},
+    "bin": {
+        "httpstart": "bin/server.js"
+    },
+    "scripts": {
+        "start": "node bin/server.js"
+    },
+    "engines": {
+        "node": "*"
+    }
+}
