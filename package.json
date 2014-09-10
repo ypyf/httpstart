@@ -3,10 +3,10 @@
     "author": "Yan Feng",
     "name": "httpstart",
     "description": "A simple http server.",
-    "version": "0.0.114",
+    "version": "0.0.2",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ypyf/httpstart"
+        "url": "https://github.com/ypyf/httpstart.git"
     },
     "dependencies": {
         "mimemap": "*",
